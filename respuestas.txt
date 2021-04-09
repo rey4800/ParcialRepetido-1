@@ -1,1 +1,4 @@
 Respuesta1 : Gobierno, clientes, competidores y proveedores
+
+Respuesta2: Los componenetes basicos de un sistema pueden ser
+		los objetivos, los elementos, y las interrelaciones.
