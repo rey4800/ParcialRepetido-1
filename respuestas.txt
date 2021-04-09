@@ -2,3 +2,15 @@ Respuesta1 : Gobierno, clientes, competidores y proveedores
 
 Respuesta2: Los componenetes basicos de un sistema pueden ser
 		los objetivos, los elementos, y las interrelaciones.
+
+Respueta3: Se puede decir que un sistema operativo es un conjunto de actividades (llevadas a cabo ya sea por un organismo social)
+	sistematicas que enlazan operaciones o tareas necesarias para cumplir un objetivo y planes, lo que genera una red informacional dentro de la gestion de la compañia
+
+
+Respuesta4:
+
+		_________________________________________
+(Insumos)	|					| (Productos)
+--------------->|Organismos como proceso de conversion	|-------------->
+Recursos	|_______________________________________|  Beneficios
+		
