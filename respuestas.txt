@@ -13,4 +13,10 @@ Respuesta4:
 (Insumos)	|					| (Productos)
 --------------->|Organismos como proceso de conversion	|-------------->
 Recursos	|_______________________________________|  Beneficios
+
+
+Respuesta 5:	-Clientes o usuarios
+		-Competidores
+		-Proveedores
+		-Normativas
 		
